@@ -1,16 +1,19 @@
-## Hi there 👋
+# Jhunier Libardo Hernandez
+**Systems Engineer → Cybersecurity Master's Student**  
+Focusing on secure architectures, automation, and active data workflows.
 
-<!--
-**riassd/riassd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔐 Specializing in cybersecurity & defensive strategies
+- 📊 Expertise in active data entry and enterprise operational mapping
+- 💻 Systems engineering background
+- 📍 Pitalito, Huila — Colombia
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <a href="https://github.com/RIASD" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/tu-perfil-aqui" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
